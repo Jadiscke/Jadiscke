@@ -11,10 +11,11 @@
 
 ## 👯 I’m looking to collaborate on
 
-* Any project that can make a difference in peoples lives in terms of education, finances or healthcare.
-* Small Teams.
-* Big Teams.
-* Dinamyc
+* Any Project that can make a difference in peoples lives in terms of education, finances or healthcare;
+* Any Project tha can make me grow as a professional or as person;
+* Small Teams;
+* Big Teams;
+* Multidisciplinary Teams.
 
 ## 📫 How to reach me:
 
