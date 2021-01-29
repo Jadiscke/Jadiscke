@@ -1,5 +1,10 @@
 # Hello, I am Vinícius Jadiscke
 
+I am 24, born and raised in Brazil ❤.
+
+I mainly work with Node.js as Back-End Developer but I have some knowledge in Front-End Development with HTML | CSS | JS | REACT
+
+My most loved database is PostgreSQL and second One is MongoDB.
 
 ## Statistics 
 
