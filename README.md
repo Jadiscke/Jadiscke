@@ -1,12 +1,17 @@
 # Hello, I am Vinícius Jadiscke
 
+I am 24, born and raised in Brazil ❤.
+
+I mainly work with Node.js as Back-End Developer but I have some knowledge in Front-End Development with HTML | CSS | JS | REACT
+
+My most loved database is PostgreSQL and second One is MongoDB.
 
 ## Statistics 
 
 | Name | Value  |
 |---|---|
 | Account Age |  **3** years|
-| Pushed  |  **599** commits |
+| Pushed  |  **600** commits |
 | Opened  |  **1** issues | 
 | Submitted  | **23** pull request | 
 |Own | **38** repositories|
