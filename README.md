@@ -1,43 +1,33 @@
-<br/>
+# My new Profile
 
-  <h2 align="center" >Vinícius Jadiscke</h1>
-  <p align="center" >Web Developer</p>
-  <p align="center"> <strong>HTML | CSS | Javascript | Node.js | Express.js </strong></p>
-  
-  <br><br><br>
+Account age: **3** years
 
-<p align="center" >I am Web Developer, Tech Entusiast and Industrial Engineer student at <strong>University of Brasília</strong> looking for a job in the web development scope. I'm eager to learn and play games. I am really into fantasy books, manga, anime and web novels.</p>
+Pushed **598** commits
 
+Opened **1** issues
 
-## 👯 I’m looking to collaborate on
+Submitted **23** pull requests
 
-* Any Project that can make a difference in peoples lives in terms of education, finances or healthcare;
-* Any Project tha can make me grow as a professional or as person;
-* Small Teams;
-* Big Teams;
-* Multidisciplinary Teams.
+Received **0** stars
 
-## 📫 How to reach me:
+Own **38** repositories
 
-**e-mail**: vjtasso@gmail.com <br>
-**twitter**: @vjtasso <br>
-**instagram**: @jadiscke <br>
+Contributed to **8** public repositories
 
-## ⚡ Fun fact
+Top 8 most used languages across your repositories:
 
-In my early universtiy days I was really into fantasy chinese novels and there was one named the *Coiling Dragon Saga* ( composed of 21 books and more than 800 chapters ) that I read in a month. 
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B134.5%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B130%25)
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B114.7%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B110.6%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B19.3%25)
+![OpenEdge ABL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=OpenEdge%20ABL%EF%B8%B10.5%25)
+![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B10.1%25)
+![Dockerfile](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23384d54&message=Dockerfile%EF%B8%B10%25)
 
-<!--
-**Jadiscke/Jadiscke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Top 4 most used languages across your repositories:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B134.5%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B130%25)
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B114.7%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B120.6%25)
