@@ -1,18 +1,16 @@
-# My new Profile
+# Hello, I am Vinícius Jadiscke
 
-Account age: **{{ ACCOUNT_AGE }}** years
 
-Pushed **{{ COMMITS }}** commits
+## Statistics 
 
-Opened **{{ ISSUES }}** issues
-
-Submitted **{{ PULL_REQUESTS }}** pull requests
-
-Received **{{ STARS }}** stars
-
-Own **{{ REPOSITORIES }}** repositories
-
-Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
+| Name | Value  |
+|---|---|
+| Account Age |  **{{ ACCOUNT_AGE }}** years|
+| Pushed  |  **{{ COMMITS }}** commits |
+| Opened  |  **{{ ISSUES }}** issues | 
+| Submitted  | **{{ PULL_REQUESTS }}** pull request | 
+|Own | **{{ REPOSITORIES }}** repositories|
+|Contributed to | **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories|
 
 Top 8 most used languages across your repositories:
 
