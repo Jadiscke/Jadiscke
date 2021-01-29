@@ -1,18 +1,16 @@
-# My new Profile
+# Hello, I am Vinícius Jadiscke
 
-Account age: **3** years
 
-Pushed **598** commits
+## Statistics 
 
-Opened **1** issues
-
-Submitted **23** pull requests
-
-Received **0** stars
-
-Own **38** repositories
-
-Contributed to **8** public repositories
+| Name | Value  |
+|---|---|
+| Account Age |  **3** years|
+| Pushed  |  **599** commits |
+| Opened  |  **1** issues | 
+| Submitted  | **23** pull request | 
+|Own | **38** repositories|
+|Contributed to | **8** public repositories|
 
 Top 8 most used languages across your repositories:
 
