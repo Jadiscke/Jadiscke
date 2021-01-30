@@ -11,11 +11,11 @@ My most loved database is PostgreSQL and second One is MongoDB.
 | Name | Value  |
 |---|---|
 | Account Age |  **3** years|
-| Pushed  |  **600** commits |
-| Opened  |  **1** issues | 
+| Pushed  |  **601** commits |
+| Opened  |  **2** issues | 
 | Submitted  | **23** pull request | 
 |Own | **38** repositories|
-|Contributed to | **8** public repositories|
+|Contributed to | **9** public repositories|
 
 Top 8 most used languages across your repositories:
 
