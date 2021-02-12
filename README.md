@@ -13,9 +13,9 @@ My most loved database is PostgreSQL and second One is MongoDB.
 | Account Age |  **3** years|
 | Pushed  |  **609** commits |
 | Opened  |  **2** issues | 
-| Submitted  | **23** pull request | 
+| Submitted  | **24** pull request | 
 |Own | **38** repositories|
-|Contributed to | **9** public repositories|
+|Contributed to | **10** public repositories|
 
 Top 8 most used languages across your repositories:
 
