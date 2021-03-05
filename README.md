@@ -15,7 +15,7 @@ Working with [PRTE](https://github.com/somosprte)
 | Account Age |  **3** years|
 | Pushed  |  **630** commits |
 | Opened  |  **2** issues | 
-| Submitted  | **31** pull request | 
+| Submitted  | **36** pull request | 
 |Own | **39** repositories|
 |Contributed to | **11** public repositories|
 
