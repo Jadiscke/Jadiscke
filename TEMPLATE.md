@@ -2,7 +2,11 @@
 
 I am 24, born and raised in Brazil ❤.
 
+My aim is to best as I can be in the things that I love doing.
+
 I mainly work with Node.js as Back-End Developer but I have some knowledge in Front-End Development with HTML | CSS | JS | REACT
+
+Learning Go!
 
 My most loved database is PostgreSQL and second One is MongoDB.
 
