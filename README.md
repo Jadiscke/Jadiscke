@@ -17,11 +17,11 @@ Working with [PRTE](https://github.com/somosprte)
 | Name | Value  |
 |---|---|
 | Account Age |  **3** years|
-| Pushed  |  **1974** commits |
+| Pushed  |  **1975** commits |
 | Opened  |  **2** issues | 
 | Submitted  | **23** pull request | 
 |Own | **44** repositories|
-|Contributed to | **30** public repositories|
+|Contributed to | **31** public repositories|
 
 Top 8 most used languages across your repositories:
 
