@@ -21,7 +21,7 @@ Working with [PRTE](https://github.com/somosprte)
 | Opened  |  **2** issues | 
 | Submitted  | **23** pull request | 
 |Own | **44** repositories|
-|Contributed to | **30** public repositories|
+|Contributed to | **28** public repositories|
 
 Top 8 most used languages across your repositories:
 
