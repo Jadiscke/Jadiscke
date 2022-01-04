@@ -1,42 +1,26 @@
-# Hello, I am Vinícius Jadiscke
+### Hello, I am Vinícius Jadiscke
 
-I am 24, born and raised in Brazil ❤.
+I am 25, born and raised in Brazil ❤.
 
 My aim is to best as I can be in the things that I love doing.
+I mainly work with Node.js as Back-End Developer but I have some knowledge in Front-End Development with React.
 
-I mainly work with Node.js as Back-End Developer but I have some knowledge in Front-End Development with HTML | CSS | JS | REACT
+Learning Web3!
 
-Learning Go!
-
-My most loved database is PostgreSQL and second One is MongoDB.
-
-Working with [PRTE](https://github.com/somosprte)
-
-## Statistics 
-
-| Name | Value  |
-|---|---|
-| Account Age |  **3** years|
-| Pushed  |  **2097** commits |
-| Opened  |  **2** issues | 
-| Submitted  | **23** pull request | 
-|Own | **44** repositories|
-|Contributed to | **30** public repositories|
-
-Top 8 most used languages across your repositories:
-
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B141.2%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B126.9%25)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B113.1%25)
-![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B19.4%25)
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B18.3%25)
-![OpenEdge ABL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%235ce600&message=OpenEdge%20ABL%EF%B8%B10.4%25)
-![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B10.1%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.1%25)
-
-Top 4 most used languages across your repositories:
-
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B141.2%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B126.9%25)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B113.1%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B118.6%25)
+<div align="center">
+  <a href="https://github.com/jadiscke">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jadiscke&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadiscke&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+  
+  <div style="display: inline_block">
+   <br>
+  <img align="center" alt="Jadiscke-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jadiscke-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Jadiscke-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Jadiscke-GO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <a href="https://twitter.com/vjtasso">
+  <img align="left" alt="Jadiscke-Twitter" height="100" width="100" style="border-radius: 50%;" src="https://pbs.twimg.com/profile_images/1462561861455466504/dcKN4gTL_400x400.jpg">
+  </a>
+</div>
