@@ -3,9 +3,17 @@
 I am 25, born and raised in Brazil ❤.
 
 My aim is to best as I can be in the things that I love doing.
-I mainly work with Node.js as Back-End Developer but I have some knowledge in Front-End Development with React.
+I am CTO at @prte and mainly work with Node.js as Back-End Developer, but I have some knowledge in Front-End Development with React.
 
-Learning Web3!
+Working with:
+- Express
+- Kafka
+- Bull.js
+- Micro-Services
+- Adonis
+- React
+- Next.js
+- Cube.js
 
 <div align="center">
   <a href="https://github.com/jadiscke">
