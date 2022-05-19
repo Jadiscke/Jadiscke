@@ -29,6 +29,6 @@ Working with:
   <img align="center" alt="Jadiscke-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jadiscke-GO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <a href="https://twitter.com/vjtasso">
-  <img align="left" alt="Jadiscke-Twitter" height="100" width="100" style="border-radius: 50%;" src="https://pbs.twimg.com/profile_images/1462561861455466504/dcKN4gTL_400x400.jpg">
+  <img align="left" alt="Jadiscke-Twitter" height="100" width="100" style="border-radius: 50%;" src="https://pbs.twimg.com/profile_images/1499766278243897346/xP1TP509_400x400.jpg">
   </a>
 </div>
