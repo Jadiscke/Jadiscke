@@ -1,19 +1,15 @@
 ### Hello, I am Vinícius Jadiscke
 
-I am 25, born and raised in Brazil ❤.
+I am 26, born and raised in Brazil ❤.
 
 My aim is to best as I can be in the things that I love doing.
-I am CTO at @prte and mainly work with Node.js as Back-End Developer, but I have some knowledge in Front-End Development with React.
+I am a Javascript Engineer at @clevertech
 
 Working with:
 - Express
-- Kafka
-- Bull.js
-- Micro-Services
-- Adonis
 - React
-- Next.js
-- Cube.js
+- Mongo
+- PostgreSQL
 
 <div align="center">
   <a href="https://github.com/jadiscke">
