@@ -3,7 +3,7 @@
 I am 26, born and raised in Brazil ❤.
 
 My aim is to best as I can be in the things that I love doing.
-I am a Javascript Engineer at @clevertech
+I am a Javascript Engineer
 
 Working with:
 - Express
